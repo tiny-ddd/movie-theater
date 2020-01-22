@@ -1,2 +1,2 @@
-rootProject.name = 'movietheater'
+rootProject.name = 'movie-theater'
 include 'server'
